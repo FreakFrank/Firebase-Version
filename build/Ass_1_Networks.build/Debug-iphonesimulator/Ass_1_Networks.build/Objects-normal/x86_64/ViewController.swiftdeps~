@@ -1,0 +1,557 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "14Ass_1_Networks14ViewControllerC"
+provides-member:
+- ["14Ass_1_Networks14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "progressLabel"
+- "viewDidLoad"
+depends-top-level:
+- !private "*"
+- !private "/"
+- !private "AssignmentPrecedence"
+- !private "Double"
+- !private "Int"
+- !private "Storage"
+- !private "StringLiteralType"
+- !private "UIImage"
+- !private "UIImageJPEGRepresentation"
+- "UILabel"
+- "UIViewController"
+- "ViewController"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s19BinaryFloatingPointP", "init"]
+- !private ["s13BinaryIntegerP", "init"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "Double"]
+- !private ["s7CVarArgP", "Int"]
+- !private ["s7CVarArgP", "Storage"]
+- !private ["s7CVarArgP", "UIImage"]
+- !private ["s7CVarArgP", "UIImageJPEGRepresentation"]
+- !private ["s7CVarArgP", "child"]
+- !private ["s7CVarArgP", "completedUnitCount"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "observe"]
+- !private ["s7CVarArgP", "progress"]
+- !private ["s7CVarArgP", "progressLabel"]
+- !private ["s7CVarArgP", "putData"]
+- !private ["s7CVarArgP", "reference"]
+- !private ["s7CVarArgP", "storage"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "totalUnitCount"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Double"]
+- !private ["s28CustomDebugStringConvertibleP", "Int"]
+- !private ["s28CustomDebugStringConvertibleP", "Storage"]
+- !private ["s28CustomDebugStringConvertibleP", "UIImage"]
+- !private ["s28CustomDebugStringConvertibleP", "UIImageJPEGRepresentation"]
+- !private ["s28CustomDebugStringConvertibleP", "child"]
+- !private ["s28CustomDebugStringConvertibleP", "completedUnitCount"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "observe"]
+- !private ["s28CustomDebugStringConvertibleP", "progress"]
+- !private ["s28CustomDebugStringConvertibleP", "progressLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "putData"]
+- !private ["s28CustomDebugStringConvertibleP", "reference"]
+- !private ["s28CustomDebugStringConvertibleP", "storage"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "totalUnitCount"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "Double"]
+- !private ["s23CustomStringConvertibleP", "Int"]
+- !private ["s23CustomStringConvertibleP", "Storage"]
+- !private ["s23CustomStringConvertibleP", "UIImage"]
+- !private ["s23CustomStringConvertibleP", "UIImageJPEGRepresentation"]
+- !private ["s23CustomStringConvertibleP", "child"]
+- !private ["s23CustomStringConvertibleP", "completedUnitCount"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "observe"]
+- !private ["s23CustomStringConvertibleP", "progress"]
+- !private ["s23CustomStringConvertibleP", "progressLabel"]
+- !private ["s23CustomStringConvertibleP", "putData"]
+- !private ["s23CustomStringConvertibleP", "reference"]
+- !private ["s23CustomStringConvertibleP", "storage"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "totalUnitCount"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "init"]
+- !private ["Sd", "init"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "Double"]
+- !private ["s9EquatableP", "Int"]
+- !private ["s9EquatableP", "Storage"]
+- !private ["s9EquatableP", "UIImage"]
+- !private ["s9EquatableP", "UIImageJPEGRepresentation"]
+- !private ["s9EquatableP", "child"]
+- !private ["s9EquatableP", "completedUnitCount"]
+- !private ["s9EquatableP", "failure"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "observe"]
+- !private ["s9EquatableP", "progress"]
+- !private ["s9EquatableP", "progressLabel"]
+- !private ["s9EquatableP", "putData"]
+- !private ["s9EquatableP", "reference"]
+- !private ["s9EquatableP", "storage"]
+- !private ["s9EquatableP", "success"]
+- !private ["s9EquatableP", "text"]
+- !private ["s9EquatableP", "totalUnitCount"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["s13FloatingPointP", "init"]
+- !private ["s8HashableP", "Double"]
+- !private ["s8HashableP", "Int"]
+- !private ["s8HashableP", "Storage"]
+- !private ["s8HashableP", "UIImage"]
+- !private ["s8HashableP", "UIImageJPEGRepresentation"]
+- !private ["s8HashableP", "child"]
+- !private ["s8HashableP", "completedUnitCount"]
+- !private ["s8HashableP", "failure"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "observe"]
+- !private ["s8HashableP", "progress"]
+- !private ["s8HashableP", "progressLabel"]
+- !private ["s8HashableP", "putData"]
+- !private ["s8HashableP", "reference"]
+- !private ["s8HashableP", "storage"]
+- !private ["s8HashableP", "success"]
+- !private ["s8HashableP", "text"]
+- !private ["s8HashableP", "totalUnitCount"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "Double"]
+- !private ["So8NSCodingP", "Int"]
+- !private ["So8NSCodingP", "Storage"]
+- !private ["So8NSCodingP", "UIImage"]
+- !private ["So8NSCodingP", "UIImageJPEGRepresentation"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "progressLabel"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "Double"]
+- !private ["So26NSExtensionRequestHandlingP", "Int"]
+- !private ["So26NSExtensionRequestHandlingP", "Storage"]
+- !private ["So26NSExtensionRequestHandlingP", "UIImage"]
+- !private ["So26NSExtensionRequestHandlingP", "UIImageJPEGRepresentation"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "progressLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "Double"]
+- !private ["So8NSObjectC", "Int"]
+- !private ["So8NSObjectC", "Storage"]
+- !private ["So8NSObjectC", "UIImage"]
+- !private ["So8NSObjectC", "UIImageJPEGRepresentation"]
+- ["So8NSObjectC", "UILabel"]
+- !private ["So8NSObjectC", "child"]
+- !private ["So8NSObjectC", "completedUnitCount"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "observe"]
+- !private ["So8NSObjectC", "progress"]
+- ["So8NSObjectC", "progressLabel"]
+- !private ["So8NSObjectC", "putData"]
+- !private ["So8NSObjectC", "reference"]
+- !private ["So8NSObjectC", "storage"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "totalUnitCount"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "Double"]
+- !private ["So16NSObjectProtocolP", "Int"]
+- !private ["So16NSObjectProtocolP", "Storage"]
+- !private ["So16NSObjectProtocolP", "UIImage"]
+- !private ["So16NSObjectProtocolP", "UIImageJPEGRepresentation"]
+- !private ["So16NSObjectProtocolP", "child"]
+- !private ["So16NSObjectProtocolP", "completedUnitCount"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "observe"]
+- !private ["So16NSObjectProtocolP", "progress"]
+- !private ["So16NSObjectProtocolP", "progressLabel"]
+- !private ["So16NSObjectProtocolP", "putData"]
+- !private ["So16NSObjectProtocolP", "reference"]
+- !private ["So16NSObjectProtocolP", "storage"]
+- !private ["So16NSObjectProtocolP", "text"]
+- !private ["So16NSObjectProtocolP", "totalUnitCount"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s7NumericP", "init"]
+- !private ["So8ProgressC", "completedUnitCount"]
+- !private ["So8ProgressC", "totalUnitCount"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s16RawRepresentableP", "failure"]
+- !private ["s16RawRepresentableP", "progress"]
+- !private ["s16RawRepresentableP", "success"]
+- !private ["s8SequenceP", "init"]
+- !private ["s13SignedIntegerP", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["So7StorageC", "reference"]
+- !private ["So7StorageC", "storage"]
+- !private ["So21StorageObservableTaskC", "observe"]
+- !private ["So16StorageReferenceC", "child"]
+- !private ["So16StorageReferenceC", "putData"]
+- !private ["So11StorageTaskC", "observe"]
+- !private ["So21StorageTaskManagementP", "observe"]
+- !private ["So19StorageTaskSnapshotC", "progress"]
+- !private ["SC17StorageTaskStatusO", "failure"]
+- !private ["SC17StorageTaskStatusO", "progress"]
+- !private ["SC17StorageTaskStatusO", "success"]
+- !private ["So17StorageUploadTaskC", "observe"]
+- !private ["s10StrideableP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "Double"]
+- !private ["So21UIAppearanceContainerP", "Int"]
+- !private ["So21UIAppearanceContainerP", "Storage"]
+- !private ["So21UIAppearanceContainerP", "UIImage"]
+- !private ["So21UIAppearanceContainerP", "UIImageJPEGRepresentation"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "progressLabel"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So18UIContentContainerP", "Double"]
+- !private ["So18UIContentContainerP", "Int"]
+- !private ["So18UIContentContainerP", "Storage"]
+- !private ["So18UIContentContainerP", "UIImage"]
+- !private ["So18UIContentContainerP", "UIImageJPEGRepresentation"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "progressLabel"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "Double"]
+- !private ["So18UIFocusEnvironmentP", "Int"]
+- !private ["So18UIFocusEnvironmentP", "Storage"]
+- !private ["So18UIFocusEnvironmentP", "UIImage"]
+- !private ["So18UIFocusEnvironmentP", "UIImageJPEGRepresentation"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "progressLabel"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So7UIImageC", "init"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "init"]
+- !private ["So7UILabelC", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "Double"]
+- !private ["So30UIPasteConfigurationSupportingP", "Int"]
+- !private ["So30UIPasteConfigurationSupportingP", "Storage"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIImageJPEGRepresentation"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "progressLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So11UIResponderC", "Double"]
+- !private ["So11UIResponderC", "Int"]
+- !private ["So11UIResponderC", "Storage"]
+- !private ["So11UIResponderC", "UIImage"]
+- !private ["So11UIResponderC", "UIImageJPEGRepresentation"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "progressLabel"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "Double"]
+- !private ["So30UIResponderStandardEditActionsP", "Int"]
+- !private ["So30UIResponderStandardEditActionsP", "Storage"]
+- !private ["So30UIResponderStandardEditActionsP", "UIImage"]
+- !private ["So30UIResponderStandardEditActionsP", "UIImageJPEGRepresentation"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "progressLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So16UIStateRestoringP", "Double"]
+- !private ["So16UIStateRestoringP", "Int"]
+- !private ["So16UIStateRestoringP", "Storage"]
+- !private ["So16UIStateRestoringP", "UIImage"]
+- !private ["So16UIStateRestoringP", "UIImageJPEGRepresentation"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "progressLabel"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So18UITraitEnvironmentP", "Double"]
+- !private ["So18UITraitEnvironmentP", "Int"]
+- !private ["So18UITraitEnvironmentP", "Storage"]
+- !private ["So18UITraitEnvironmentP", "UIImage"]
+- !private ["So18UITraitEnvironmentP", "UIImageJPEGRepresentation"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "progressLabel"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "Double"]
+- !private ["So16UIViewControllerC", "Int"]
+- !private ["So16UIViewControllerC", "Storage"]
+- !private ["So16UIViewControllerC", "UIImage"]
+- !private ["So16UIViewControllerC", "UIImageJPEGRepresentation"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "progressLabel"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- !private ["14Ass_1_Networks14ViewControllerC", "Double"]
+- !private ["14Ass_1_Networks14ViewControllerC", "Int"]
+- !private ["14Ass_1_Networks14ViewControllerC", "Storage"]
+- !private ["14Ass_1_Networks14ViewControllerC", "UIImage"]
+- !private ["14Ass_1_Networks14ViewControllerC", "UIImageJPEGRepresentation"]
+- ["14Ass_1_Networks14ViewControllerC", "UILabel"]
+- ["14Ass_1_Networks14ViewControllerC", "deinit"]
+- ["14Ass_1_Networks14ViewControllerC", "init"]
+- ["14Ass_1_Networks14ViewControllerC", "progressLabel"]
+- ["14Ass_1_Networks14ViewControllerC", "viewDidLoad"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByImageLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Double"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Int"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Storage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIImageJPEGRepresentation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "child"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "completedUnitCount"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "observe"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "progress"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "progressLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "putData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "reference"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "storage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "totalUnitCount"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s11_StrideableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "s19BinaryFloatingPointP"
+- !private "s13BinaryIntegerP"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "Sd"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "s13FloatingPointP"
+- "s8HashableP"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s7NumericP"
+- !private "So8ProgressC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "s8SequenceP"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "So7StorageC"
+- !private "So21StorageObservableTaskC"
+- !private "So16StorageReferenceC"
+- !private "So11StorageTaskC"
+- !private "So21StorageTaskManagementP"
+- !private "So19StorageTaskSnapshotC"
+- !private "SC17StorageTaskStatusO"
+- !private "So17StorageUploadTaskC"
+- !private "s10StrideableP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So7UIImageC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "14Ass_1_Networks14ViewControllerC"
+- !private "s23_BidirectionalIndexableP"
+- !private "s18_BitwiseOperationsP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByImageLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s11_StrideableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageSwiftNameSupport.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRCoreSwiftNameSupport.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseSwiftNameSupport.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthSwiftNameSupport.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/kareemismail/XCodeProjects/Ass_1_Networks/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+interface-hash: "59993c0149c549ac3dd45482dc1b8964"

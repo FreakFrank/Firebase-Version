@@ -1,0 +1,6 @@
+framework module Pods_Ass_1_Networks {
+  umbrella header "Pods-Ass_1_Networks-umbrella.h"
+
+  export *
+  module * { export * }
+}
